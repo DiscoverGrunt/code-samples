@@ -2,3 +2,6 @@
 # Grunt default rules
 node_modules
 *.log
+
+# Ignores the file containing your Campfire API key
+campfire-settings.json
