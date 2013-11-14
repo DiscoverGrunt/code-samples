@@ -1,0 +1,4 @@
+
+# Grunt default rules
+node_modules
+*.log

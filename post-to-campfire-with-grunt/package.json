@@ -1,0 +1,11 @@
+{
+  "name": "post-to-campfire-with-grunt",
+  "version": "0.1.0",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/DiscoverGrunt/code-samples.git"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
